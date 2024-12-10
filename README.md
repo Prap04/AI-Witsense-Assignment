@@ -9,9 +9,10 @@ Installation:
 https://automaticaddison.com/how-to-install-ubuntu-22-04-virtual-machine-on-a-windows-pc/
 
 3. ROS 2 Humble on Ubuntu 22.04
+
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 
-4. Publisher node code and Subsrciber node code is provided in the main branch this is how it would look on the temrinal.
+5. Publisher node code and Subsrciber node code is provided in the main branch this is how it would look on the temrinal.
 It Generates random floating-point numbers in the range [0, 1] and publishes the values to the topic sensor_x_readings whereas the Subscriber subscribes to the sensor_x_readings topic.
 
 ## Screenshots
