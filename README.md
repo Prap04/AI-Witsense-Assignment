@@ -21,12 +21,13 @@ It Generates random floating-point numbers in the range [0, 1] and publishes the
 Terminal Output Example
 Publisher Node:
 
-![publish ](https://github.com/user-attachments/assets/9cb448c5-b420-4f3f-8b59-8274f308e898)
+
+![subscribe ](https://github.com/user-attachments/assets/8f13d96f-226d-4272-b9c2-0de5c891834f)
 
 
 Subsrciber Node:
 
-![subscribe ](https://github.com/user-attachments/assets/8f13d96f-226d-4272-b9c2-0de5c891834f)
+![publish ](https://github.com/user-attachments/assets/9cb448c5-b420-4f3f-8b59-8274f308e898)
 
 
 Data Publishing on same topic:
