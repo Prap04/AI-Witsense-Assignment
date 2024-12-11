@@ -17,9 +17,6 @@ $export TURTLEBOT3_MODEL=burger
 
 $roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 
-Video:
-
-
 To list all environment variables just type $env
  
 To search for a specific environment variable pipe the output to grep by $env|grep "TURTLE"
