@@ -1,6 +1,6 @@
 
 # UGV based Robotics Solution 
-This repository contains the solution for an autonomous Unmanned Ground Vehicle (UGV) that integrates sensor data, object detection, and navigation in a simulated environment using ROS 2 and Gazebo. The solution demonstrates how to work with ROS 2 nodes, sensors, and simulation tools for autonomous robot control.
+This repository contains the solution for an autonomous Unmanned Ground Vehicle (UGV) that navigates in a simulated environment using ROS 2 and Gazebo. The solution demonstrates how to work with ROS 2 nodes, sensors, and simulation tools for autonomous robot control.
 
 Installation:
 
